@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseJetpack</string>
+    <string name="predmeti">Predmeti:</string>
+    <string name="predavacnovi">predavacNOvi</string>
+    <string name="predmetnovi">predmetNovi</string>
+    <string name="godinanova">godinaNova</string>
+    <string name="spremiizmjene">spremiIzmjene</string>
+    <string name="Spremi_izmjene">Spremi Izmjene</string>
+</resources>
